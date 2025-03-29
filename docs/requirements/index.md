@@ -5,7 +5,7 @@
 - Foi utilizado o DeepSeek para montagem da matriz de requisitos funcionais e não funcionais, onde o output foram as tabelas de requisitos (./funcional.md e ./non-functional.md).
 - Utilizado para ajuda da melhor estruturação de pastas para o projeto, onde o output foi:
 
-
+```
 │
 ├── src/
 │   ├── _init_.py
@@ -36,6 +36,4 @@
 │
 ├── .gitignore
 ├── README.md
-```
-
 ```
