@@ -1,4 +1,3 @@
-```
 import unittest
 from unittest.mock import MagicMock, patch
 
@@ -28,5 +27,3 @@ class TestCLI(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-```
